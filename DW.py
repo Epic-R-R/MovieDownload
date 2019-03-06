@@ -1,5 +1,5 @@
 #==================================== Description ===============================
-#Author :
+print('''#Author :
  #   SaLaR[Epic_R_R]
 #Script Details :
  #   search and choose randomly a movie from 250 top rate movies in IMDB and
@@ -7,7 +7,7 @@
 #How To Download:
  #   for download movie with .torrent file you must use special software. Example:  qbittorrent
  #                                                                                               ;)
- #Telegram Channel: T.me/allhak
+ #Telegram Channel: T.me/allhak''')
 #==================================== Library ==========================================
 from selenium import webdriver
 import random
