@@ -16,7 +16,7 @@ root@epicRR:~$ python3 DW.py
  #Telegram Channel: T.me/allhak
  ```
  
- #Library
+ # Library
  ```
 from selenium import webdriver
 import random
@@ -27,9 +27,8 @@ import wget
 import os
 from pySmartDL import SmartDL
 ```
-#Help
-You must install selenium,pySmartDL and selenium Library
-#Install Library
+# Install Library
+For install selenium,pySmartDL and pyscreenshot Library
 ```
 pip3 install selenium
 pip3 install pySmartDL
