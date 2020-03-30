@@ -6,7 +6,7 @@ root@epicRR:~$ python3 DW.py
 ```
 ```
 #Author :
- #   SaLaR[Epic_R_R]
+ #   Sullivan[Epic_R_R]
 #Script Details :
  #   search and choose randomly a movie from 250 top rate movies in IMDB and
  #   download .torrent file for you !!!!!;) to download that an Watch ;)[Enjoy That]
