@@ -12,8 +12,6 @@ root@epicRR:~$ python3 DW.py
  #   download .torrent file for you !!!!!;) to download that an Watch ;)[Enjoy That]
 #How To Download:
  #   for download movie with .torrent file you must use special software. Example:  qbittorrent
- #                                                                                               ;)
- #Telegram Channel: T.me/allhak
  ```
  
  # Library
